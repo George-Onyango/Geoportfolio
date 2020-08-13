@@ -14,5 +14,5 @@ body {
     font-family: san-serif;
 }
 html {
-    background-color: steelblue;
+    background-color: coral;
 }
