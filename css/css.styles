@@ -16,3 +16,9 @@ body {
 html {
     background-color: coral;
 }
+ul {
+    font-size: 20;
+}
+ol {
+    font-size: 20;
+}
