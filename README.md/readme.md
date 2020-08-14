@@ -3,7 +3,7 @@ Authors
 
      George-Onyango 
 
-Project setup instructions
+Project setup instructions:
 
 To start using this project use the following commands:
 
