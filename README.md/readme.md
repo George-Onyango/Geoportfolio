@@ -11,7 +11,7 @@ To start using this project use the following commands:
     cd portfolio
     code .
 
-License info
+License info:
 
 MIT License
 
