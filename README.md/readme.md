@@ -11,6 +11,9 @@ To start using this project use the following commands:
     cd portfolio
     code .
 
+    Project description:
+    This is my portfolio page where I have kept an upto date record of all the projects that I have done thus far.The portfolio contains all necessary details of mine all of which are true and can be verified.
+
 License info:
 
 MIT License
