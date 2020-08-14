@@ -12,15 +12,15 @@ body {
 }
 
 ul {
-    font-size: 20;
+    font-size: 20px;
 }
 ol {
-    font-size: 20;
+    font-size: 20px;
 }
 .profile-image {
     border-radius: 50%;
-    width: 80px;
-    height: 80px;
+    width: 400px;
+    height: 400px;
 }
 .float-left {
     float: left;
@@ -45,4 +45,10 @@ ol {
     margin-bottom: 15px;
     padding: 15px;
     box-shadow: 2px 2px 2px #333;
+}
+.hero-image {
+    background: #b0c7cb;
+}
+.pins {
+    font-size: 26px;
 }
